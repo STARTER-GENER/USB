@@ -56,7 +56,7 @@ namespace WindowsFormsApp1
         /// <param name="directory">Директория папки с текстурами</param>
         public Block(string directory)
         {
-            PropertyFile file = new PropertyFile(directory + "\\block_properties.bpr");
+            PropertyFile file = new PropertyFile(directory + "\\block_properties.pf");
             blockID = (short)file.getIntValue("blockid");
             isVoid = file.getBoolValue("is-void");
             collision = file.getBoolValue("collision");
