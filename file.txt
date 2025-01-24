@@ -1,0 +1,21 @@
+[id:0]<ничего не делает>
+[minRad:4]<радиус части пещеры(мин значение)>
+[maxRad:8]<радиус части пещеры(макс значение)>
+[minHeight:50]<высота ниже которой должны появлятся руды>
+[MinOreRad:5]<радиус руды(мин значение)>
+[MaxOreRad:7]<радиус руды(макс значение)>
+[minDistance:10]<мин. дистанция по Х между желодами>
+[maxDistance:25]<макс. дистанция по Х между желодами>
+[CaveShiftX:4]<сдвиг след части пещеры по Х>
+[minHeightCave:20]
+[minCaveDistance:25]
+[maxCaveDistance:50]
+[minCavePart:50]
+[maxCavePart:101]
+[minDirtHeight:50]
+[MinDirtRad:4]
+[MaxDirtRad:6]
+[minDirtDistance:2]
+[maxDirtDistance:5]
+[DirtShift:3]
+[TreeDistance:7]<минимальное растояние между деревьями>
